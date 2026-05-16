@@ -14,10 +14,7 @@ body {
     color: #1a1a1a;
 }
 
-header,
-nav,
-main,
-footer {
+header, nav, main, footer {
     padding: 1rem 2rem;
 }
 
